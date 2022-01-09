@@ -1,0 +1,19 @@
+SAMSUNG MZ7TD128HAFV-000L1
+SSD C盘 120G
+磁盘 1 (D: E: F: G:)
+
+
+WDC WD5000AAKX-08U6AA0
+机械磁盘 D/E/F盘 466G
+
+001 net-ip-config
+002 net-share
+003 old-normal-disk-same-partion
+004 old-normal-disk-diff-partion
+005 old-normal-disk-to-ssd-disk
+006 old-ssd-disk-to-self
+007 net-old-to-new
+008 net-new-to-old-normal-disk
+009 net-new-to-old-ssd-disk
+010 copy-same-disk-diff-pation
+011 cp-same-disk-partion
